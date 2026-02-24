@@ -12,8 +12,8 @@ For the last two years, I have also served as a Lecturer in a Master’s program
 
 I hold a degree in Systems Engineering, a Master’s in Business Intelligence and Technology Innovation, and a Master’s in Political Science Analysis. This multidisciplinary background enables me to approach data platforms not only from a technical perspective but also through the lenses of business value creation, governance, and organizational impact.
 
-* I am from <img src='PNG/VE@2x.png?raw=true' width='21' height='15'>
-* I am based in Barcelona -  - <img src='PNG/ES@2x.png?raw=true' width='21' height='15'>
+* I am from <img src='VE@2x.png?raw=true' width='21' height='15'>
+* I am based in Barcelona -  - <img src='ES@2x.png?raw=true' width='21' height='15'>
 * See my portfolio at [manuelhernandezgiuliani.com](http://manuelhernandezgiuliani.com)
 * You can contact me at [contact@manuelhernandezgiuliani.com](mailto:contact@manuelhernandezgiuliani.com)
 * I am currently working on [Students Laboratory for end to end Big Data deployment](http://manuelhernandezgiuliani.com)
