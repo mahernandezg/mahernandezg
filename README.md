@@ -1,6 +1,6 @@
-Hello :wave: My name is Manuel Hernández Giuliani
+I am Manuel Hernández Giuliani
 ==================================================================================================================================================
-
+I am a professional of:
 Enterprise-Level Big Data Data Platforms Architect & Engineer
 -------------------------------------------------------------
 
@@ -17,6 +17,7 @@ I hold a degree in Systems Engineering, a Master’s in Business Intelligence an
 * See my portfolio at [manuelhernandezgiuliani.com](http://manuelhernandezgiuliani.com)
 * You can contact me at [contact@manuelhernandezgiuliani.com](mailto:contact@manuelhernandezgiuliani.com)
 * I am currently working on [Students Laboratory for end to end Big Data deployment](http://manuelhernandezgiuliani.com)
+* I am leading the LinkedIn Group: [Enterprise Data Platform Architecture & AI Engineering](https://www.linkedin.com/groups/17526006)
 * I am continuously learning new technologies because in our industry, staying still means becoming obsolete.
 * I am looking to collaborate on Providing enterprise-level consulting for Big Data use cases and data platform architecture.
 * I follow and strongly believe in the principles of The 7 Habits of Highly Effective People by Stephen Covey.
