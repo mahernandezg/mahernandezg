@@ -1,7 +1,4 @@
-I am Manuel Hernández Giuliani
-==================================================================================================================================================
-I am a professional of:
-Enterprise-Level Big Data Data Platforms Architect & Engineer
+I am a professional of Enterprise-Level Big Data Data Platforms Architect & Engineer
 -------------------------------------------------------------
 
 I am a senior technology professional with hands-on experience in the IT industry since 1995, spanning database administration, software development, and IT management. Over the past decade, I have specialized as an Enterprise-Level Big Data Data Platforms Architect and Engineer, designing and leading large-scale, mission-critical data platforms that enable advanced analytics, data governance, and AI-driven decision-making within complex corporate environments.
