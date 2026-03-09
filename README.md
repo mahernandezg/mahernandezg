@@ -5,7 +5,7 @@ I am a senior technology professional with hands-on experience in the IT industr
 
 My expertise covers end-to-end data platform architecture, including data lakehouse paradigms, distributed processing frameworks, cloud-native architectures, data governance models, and scalable ingestion and transformation pipelines. I combine deep technical execution capabilities with strategic architectural vision, ensuring that data platforms are not only technically robust but also aligned with business objectives, security standards, and operational excellence.
 
-For the last two years, I have also serve as a Lecturer in a Master’s program in Big Data & Analytics, where I bridge real-world enterprise architecture experience with academic rigor. I design and deliver hands-on labs, cloud-based distributed systems practices, and strategic case studies to prepare data engineers and architects for enterprise-scale challenges.
+since 2024, I have also serve as a Lecturer in a Master’s program in Big Data & Analytics, where I bridge real-world enterprise architecture experience with academic rigor. I design and deliver hands-on labs, cloud-based distributed systems practices, and strategic case studies to prepare data engineers and architects for enterprise-scale challenges.
 
 I hold a degree in Systems Engineering, a Master’s in Business Intelligence and Technology Innovation, and a Master’s in Political Science Analysis. This multidisciplinary background enables me to approach data platforms not only from a technical perspective but also through the lenses of business value creation, governance, and organizational impact.
 
